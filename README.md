@@ -1,4 +1,4 @@
-Adam is a Virtual Human Resource (HR) Chatbot built using PyTorch, Flask, and NLP. It can handle HR-related queries by classifying user input into predefined intents and responding intelligently.
+chintu is a Virtual Human Resource (HR) Chatbot built using PyTorch, Flask, and NLP. It can handle HR-related queries by classifying user input into predefined intents and responding intelligently.
 
 It comes with:
 
