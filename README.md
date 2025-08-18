@@ -109,3 +109,5 @@ Flask (Web Framework)
 Flask-CORS (API communication)
 
 HTML/CSS/JS (UI)
+![WhatsApp Image 2025-08-18 at 22 55 53_5a25ea4a](https://github.com/user-attachments/assets/6b7a6f57-8451-40a6-b357-340f17303521)
+
