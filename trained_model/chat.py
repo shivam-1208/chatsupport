@@ -22,8 +22,8 @@ model = NeuralNet(input_size, hidden_size, num_classes).to(device)
 model.load_state_dict(model_state)  # loading the state of the model
 model.eval()
 
-bot_name = "Adam"
-print("Hey there! This is Adam Smith, your Virtual Human Resource (H.R.) Representative")
+bot_name = "chintu"
+print("Hey there! This is chintu, your Virtual Human Resource (H.R.) Representative")
 print("What can I do for you today?")
 
 
